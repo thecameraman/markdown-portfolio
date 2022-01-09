@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+
+
+
+**thecameraman**
+__github__
+
+_this text is in italics,_
+_italics and **bold texts** together_
